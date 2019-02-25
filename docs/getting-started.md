@@ -19,7 +19,7 @@ Steps to Sign In:
 
 [Sign In page](https://www.concursolutions.com/nui/signin){: .btn .btn-blue }
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\sgn1.png">
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\Sgn1.png">
 
 `2.` Enter your username.
 
