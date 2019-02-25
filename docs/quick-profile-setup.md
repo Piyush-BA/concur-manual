@@ -148,7 +148,7 @@ Steps to submit Emergency Contact:
 ```
 Leave the "DHS Redress No." and "TSA Pre DHS Redress No." empty.
 ```
-# 10. Update Passport and Visa details.
+### 10. Update Passport and Visa details.
 `1.` Click on [+] Add a passport to add your passport.  
 `2.` Click on [+] Add a Visa to add your visa.  
 `3.` Click on save.  
