@@ -25,7 +25,7 @@ If you are arranging travel on **behalf of a traveller**, please ensure you have
 
 
 ## Steps to update the Traveller's profile:  
-### 1. Login to the system.  
+### 1. Log in to the system.  
 
 ### 2. Click on Profile and select Profile Settings. 
 
@@ -67,7 +67,7 @@ Indicate by selecting the "No Middle Name" tick-box, if required.
 Field | Description
 --- | --- 
 Assigned location | Select the location of your assigned working location.
-Address same as assigned location | Select this checkbox if you work at same location as your Assigned Location.
+Address same as the assigned location | Select this check box if you work at the same location as your Assigned Location.
 
 
 ### 6. Update Contact Information details

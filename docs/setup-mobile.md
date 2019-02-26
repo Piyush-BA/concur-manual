@@ -8,7 +8,7 @@ permalink: /docs/setup
 
 The Concur App syncs with the website to upload receipt photos.  It can also be used to prepare and approve expense reports. The Concur app is available for Android and iPhone.
 
-To dowload the app, access your mobile app store and search for Concur. Once the app is installed on your phone log into Concur to set up a Mobile PIN.
+To download the app, access your mobile app store and search for Concur. Once the app is installed on your phone log into Concur to set up a Mobile PIN.
 
 `1.` Using your computer, sign into Concur
 
@@ -30,6 +30,6 @@ Combination of uppercase, lowercase and numeric characters
 
 [Apple](https://itunes.apple.com/us/app/concur-travel-receipts-expense/id335023774?mt=8){: .btn .btn-blue }
 
-[Andriod](https://play.google.com/store/apps/details?id=com.concur.breeze&hl=en){: .btn .btn-blue }
+[Android](https://play.google.com/store/apps/details?id=com.concur.breeze&hl=en){: .btn .btn-blue }
 
 Once your Mobile PIN is created, log into the app using your UID@in.panasonic username (ex. 12345678@in.panasonic.com) and your Mobile PIN.
