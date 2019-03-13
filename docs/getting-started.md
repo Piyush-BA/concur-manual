@@ -17,7 +17,7 @@ Steps to Sign In:
 
 `1.` Open the Sign In page of Concur.
 
-[Sign In page](https://www.concursolutions.com/nui/signin){: .btn .btn-blue }
+[Sign In page](https://www.concursolutions.com/nui/signin){: .btn .btn-blue } [Sign In page](https://www.concursolutions.com/nui/signin){: .btn .btn-blue }
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\Sgn1.png">
 
@@ -27,17 +27,17 @@ Steps to Sign In:
 
 Available fields:
 ```
-Username- A unique Identification that helps system identify the user
+Username- This is the username that we use in windows authentication. (Eg. rajkamal.kaper@in.panasonic.com)
 Password- A code that will help the system authenticate the user
 ```
 
-`4.` Click on "Sign In" button to access the Concur system
+`4.` Click on "Sign In" button to access the Concur system.
 
 ***  
 ### Note:
 1. For best user experience, Concur recommends the use of Internet Explorer version 10 or later; Google Chrome version 30 or later; or Mozilla Firefox version 25 or later.
 2. Ensure pop-ups are enabled.
-3. Any communications from the Concur Travel Management System will be sent to your Panasonic India email address. 
+3. Any communications from Concur Travel Management System will be sent to your Panasonic India email address. 
 
 ***
 
@@ -56,5 +56,14 @@ Depending on user access level, you may see the following options on your Homepa
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\dsh1.png">
 
 ```
-If you are new, begin by reviewing and completing your Traveller Profile.
+If you are logging in for the irst time, begin by reviewing and completing your Traveller Profile.
 ```
+
+Field | Description
+--- | --- 
+Trip Search | This section provides the tools you need to book a trip with any or all of these:
+Flight: Use to book a flight. You can also book hotel and reserve a car at the same time. Car, Hotel, Limo, or Rail: Use to book hotels, reserve rental cars, etc. if not including them while booking a flight (Flight tab). 
+Alerts | This section displays informational alerts about Travel features.
+Company Notes | Content is provided by your company administrator.
+My Trips | This section lists your upcoming trips.
+My Tasks | This section lists Required Approvals, Available Expenses, and Open Reports.
