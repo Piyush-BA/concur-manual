@@ -25,17 +25,18 @@ If you are arranging travel on **behalf of a traveller**, please ensure you have
 
 
 ## Steps to update the Traveller's profile:  
-### 1. Log in to the system.  
 
-### 2. Click on Profile and select Profile Settings. 
+#### 1. Log in to the system.  
+
+#### 2. Click on Profile and select Profile Settings. 
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp1.png"> 
 
-### 3. Click on "Personal Information".  
+#### 3. Click on "Personal Information".  
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp2.png"> 
 
-### 4. Update Name details.
+#### 4. Update Name details.
 
 ```
 If you are completing the Profile Information for the first time, complete all the required 
@@ -53,7 +54,7 @@ information first and click on SAVE at the end.
 Title: Prefix to your name. If your title is not in the list, keep it empty.
 Indicate by selecting the "No Middle Name" tick-box, if required.
 ```
-### 5. Update Work Address details.
+#### 5. Update Work Address details.
 
 `1.` Select assigned Location.
 
@@ -70,7 +71,7 @@ Assigned location | Select the location of your assigned working location.
 Address same as the assigned location | Select this check box if you work at the same location as your Assigned Location.
 
 
-### 6. Update Contact Information details
+#### 6. Update Contact Information details
 
 `1.` Enter your "Work Phone".
 
@@ -98,7 +99,7 @@ Phone is updated on your profile.
 ```
 
 
-### 7. Update Email Addresses.
+#### 7. Update Email Addresses.
 
 ```
 Email 1 is the Traveller's primary email address. It is used for all Concur related communication.
@@ -126,7 +127,7 @@ Email address.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp6.png"> 
 
-### 8. Update Emergency Contact:
+#### 8. Update Emergency Contact:
 Steps to submit Emergency Contact:  
 
 `1.` Fill full name in "Name".  
@@ -139,7 +140,7 @@ Steps to submit Emergency Contact:
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp7.png"> 
 
-### 9. Update TSA secure flight.
+#### 9. Update TSA secure flight.
 
 `1.` Select the gender.  
 
@@ -148,7 +149,7 @@ Steps to submit Emergency Contact:
 ```
 Leave the "DHS Redress No." and "TSA Pre DHS Redress No." empty.
 ```
-### 10. Update Passport and Visa details.
+#### 10. Update Passport and Visa details.
 `1.` Click on [+] Add a passport to add your passport.  
 `2.` Click on [+] Add a Visa to add your visa.  
 `3.` Click on save.  
