@@ -2,7 +2,7 @@
 layout: default
 title: Submit Requests 
 nav_order: 5
-permalink: /
+permalink: /docs/request
 ---
 # Submit Requests
 ### Role- Employee
