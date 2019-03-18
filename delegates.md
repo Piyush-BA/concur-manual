@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Deligation on behalf
-nav_order: 3
-permalink: /docs/
+nav_order: 6
+permalink: /docs/Deligation
 ---
 # Deligation on behalf
 
