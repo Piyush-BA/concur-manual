@@ -11,7 +11,7 @@ permalink: /docs/starts
 
 Login is the first step because it will let the system know that you have the rights to access the system and the system will dynamically change itself based on what kind of user you are.   
 
-Sign In can be done via SSO inside the Panasonic Enviroment or via AD usrname and password from anywhere with an internet connection.
+Sign In can be done via SSO inside the Panasonic Enviroment or via AD username and password from anywhere with an internet connection.
 
 Steps to Sign In:  
 
