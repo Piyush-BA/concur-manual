@@ -5,7 +5,7 @@ nav_order: 7
 permalink: /docs/bookings
 ---
 # Bookings
-### Role requester
+### Role- requester
 
 #### 1. Log in to the system.
 
@@ -50,5 +50,7 @@ permalink: /docs/bookings
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo12.png">
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo13.png">
+
+#### 12. Send or print the Itinerary.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo15.png">

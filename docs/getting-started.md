@@ -62,8 +62,7 @@ If you are logging in for the irst time, begin by reviewing and completing your 
 
 Field | Description
 --- | --- 
-Trip Search | This section provides the tools you need to book a trip with any or all of these:
-Flight: Use to book a flight. You can also book hotel and reserve a car at the same time. Car, Hotel, Limo, or Rail: Use to book hotels, reserve rental cars, etc. if not including them while booking a flight (Flight tab). 
+Trip Search | This section provides the tools you need to book a trip. Flight, Use to book a flight. You an also book hotel and reserve a car at the same time.
 Alerts | This section displays informational alerts about Travel features.
 Company Notes | Content is provided by your company administrator.
 My Trips | This section lists your upcoming trips.
