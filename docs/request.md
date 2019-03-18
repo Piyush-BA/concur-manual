@@ -7,10 +7,10 @@ permalink: /docs/request
 # Submit Requests
 ### Role- Employee
 
-As an employee, you must request to your reporting manager to approve your expence estimate. Request can only be submitted once all the required mandatory sections are to be completed. Required mandatory sections- Request heaer, Segments.
+As an employee, you must request to your reporting manager to approve your expense estimate. The request  can only be submitted once all the required mandatory sections are to be completed. Required mandatory sections- Request header, Segments.
 You can complete this process by following these steps:-
 
-#### 1. Login to the system.
+#### 1. Log in to the system.
 
 #### 2. From the dashboard click on "Create a New Request" tab.
 
@@ -29,9 +29,9 @@ Car & Train Request | ???
 
 #### 5. Select the booking type. Select "Self-booked in Concur Travel" if you want to create the booking within the system, else select "Booked by other sources".
 
-#### 6. Leave the Personal/Family Travel as No. Concur system currently doesnot support this feature.
+#### 6. Leave the Personal/Family Travel as No. Concur system currently does not support this feature.
 
-#### 7. Select the Start Date and the End Date. Duration will be calcuated automatically when we save the details.
+#### 7. Select the Start Date and the End Date. Duration will be calculated automatically when we save the details.
 
 #### 8. Add the business purpose, to describe the purpose of your request and click on the "Save" button.
 
@@ -39,7 +39,7 @@ Car & Train Request | ???
 
 #### 9.  Now in the segments section, click on Air ticket or Hotel reservation icon to add the details.
 
-#### 10. Add estimated ammount, To From locations and Time of departure.
+#### 10. Add estimated amount, To From locations and Time of departure.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req3.png"> 
 
@@ -47,7 +47,7 @@ Car & Train Request | ???
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req4.png"> 
 
-#### 12. Add other expences from the expences tab
+#### 12. Add other expenses from the "Expenses" tab
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req5.png"> 
 
@@ -69,12 +69,12 @@ If you are approving Travel on behalf of another Approver, refer to notes under 
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req8.png"> 
 
-#### 2. Click on requests tab to view the list of requests.
+#### 2. Click on the "Requests" tab to view the list of requests.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req9.png"> 
 
 ```
-A list of Requests waiting for your approval will be listed, if any.
+A list of Requests waiting for your approval will be listed if any.
 ```
 
 #### 3. Click on the request and review all the necessary information from the "Request Header" section. Such as:
