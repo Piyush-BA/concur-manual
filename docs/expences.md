@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Expences
+title: Expenses
 nav_order: 8
 permalink: /docs/expences
 ---
-# Expences
+# Expenses
 
-Expenses of travel can be added to the Concur management system, once the request is approved by the manager. To submit the expense report, Follow the steps below:-
+Expenses of travel can be added to the Concur management system, once the request is approved by the manager. To submit the expense report, follow the steps below:-
 
 #### 1. Log in to the system.
 
