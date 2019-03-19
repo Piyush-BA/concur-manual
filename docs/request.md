@@ -7,7 +7,7 @@ permalink: /docs/request
 # Submit Requests
 ### Role- Employee
 
-As an employee, you must request to your reporting manager to approve your expense estimate. The request  can only be submitted once all the required mandatory sections are to be completed. Required mandatory sections- Request header, Segments.
+As an employee, you must request your reporting manager to approve your expense estimate. The request  can only be submitted once all the required mandatory sections have been completed. Required mandatory sections- Request header, Segments.
 You can complete this process by following these steps:-
 
 #### 1. Log in to the system.
@@ -16,14 +16,14 @@ You can complete this process by following these steps:-
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req1.png"> 
 
-#### 3. Select from the drop-down list, your Travel Purpose. 
+#### 3. Select your Travel Purpose from the drop-down list. 
 
 Request type | Description
 --- | --- 
 Domestic Travel | Work travel within India.
 International Travel | Work travel outside India.
-Entertainment Request | ???
-Car & Train Request | ???
+Entertainment Request | **???**
+Car & Train Request | **???**
 
 #### 4. Enter the name of the request. For Eg. Sales Training 
 
@@ -39,7 +39,7 @@ Car & Train Request | ???
 
 #### 9.  Now in the segments section, click on Air ticket or Hotel reservation icon to add the details.
 
-#### 10. Add estimated amount, To From locations and Time of departure.
+#### 10. Add estimated amount, To and From locations and Time of departure.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req3.png"> 
 
@@ -61,7 +61,7 @@ Car & Train Request | ???
 
 ### Role- Approver
 
-Travel Approver will receive an email notification when there is a requisition waiting for your approval. To review the Request, login to Concur (Concur web link address is available at the bottom of the email received).
+Travel Approver will receive an email notification when there is a requisition waiting for your approval. To review the request, login to Concur (Concur web link address is available at the bottom of the email received).
 Note:
 If you are approving Travel on behalf of another Approver, refer to notes under Delegating Approval – Approving Travel as an Approval Delegate.
 
@@ -86,13 +86,13 @@ A list of Requests waiting for your approval will be listed if any.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req11.png"> 
 
-#### 4. In the Segments tab, review all the necessary information relating to selected:
+#### 4. In the Segments tab, review all the necessary information related to selected:
 - Air
 - Accommodation
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req12.png"> 
 
-#### 5. Use the "Send Back Request", if you require further information from the traveller or declining the travel request.
+#### 5. Use the "Send Back Request", if you require further information from the traveller or want to decline the travel request.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\re.png"> 
 
