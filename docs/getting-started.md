@@ -67,3 +67,6 @@ Alerts | This section displays informational alerts about Travel features.
 Company Notes | Content is provided by your company administrator.
 My Trips | This section lists your upcoming trips.
 My Tasks | This section lists Required Approvals, Available Expenses, and Open Reports.
+
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\flow.png">   
