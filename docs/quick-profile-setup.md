@@ -7,8 +7,9 @@ permalink: /docs/quick
 # Quick Setup to Traveler's Profile
 **Traveller MUST review and confirm their profile information!**
 
-Traveller Profile Information must be kept up-to-date with details in accordance with your current travel document (e.g. passport that you will be using for travel).
-The traveller may be turned down at the gate if the name on the travel document used (e.g. passport or any other travel identification) does not match the name on the ticket issued by the Travel agent.
+Traveller Profile Information must be kept up-to-date with details in accordance with your current travel document (Goverment approved ID e.g. passport, Aadhar that you will be using for travel).
+The traveller may be turned down at the gate if the name on the travel document used (Goverment approved ID e.g. passport, Aadhar or any other travel identification) does not match the name on the ticket issued by the Travel agent.
+
 The traveller must update their profile *whenever the information has changed.*
 It is the **Traveller's responsibility** to ensure that Profile Information is up-to-date with details according to their current travel document.
 
@@ -18,9 +19,8 @@ If you are arranging travel on **behalf of a traveller**, please ensure you have
 + Name
 + Work Address
 + Contact Information
-+ Email Addresses
 + Emergency Contact
-+ TSA secure flight
++ TSA secure flight, Gender, DOB
 + Passport and visa
 
 
@@ -99,35 +99,9 @@ Phone is updated on your profile.
 ```
 
 
-#### 7. Update Email Addresses.
-
-```
-Email 1 is the Traveller's primary email address. It is used for all Concur related communication.
-Travel alerts and risk messaging notices from the Concur Risk Management tool will ONLY be sent to
-traveller's primary email address - Email 1. Email verification is required for the system to link the
-information forwarded from the email address to the associated account.
-```
-
-*Traveller will be required to verify every email addresses listed on this section.*
-
-`1.` Email address can be added by clicking on "[+] Add an email address".
-
-Steps to verify email address:  
-
-`1.` Once you have saved an email address, click the "Verify" link.  
-
-`2.` Check your email for a verification message from Concur.  
-
-`3.` Copy the code from the email message into the "Enter Code" box next to the
-Email address.  
-
-`4.` Click "OK" to submit the code and complete verification.  
-
-`5.` Click Save to confirm details.
-
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp6.png"> 
 
-#### 8. Update Emergency Contact:
+#### 7. Update Emergency Contact:
 Steps to submit Emergency Contact:  
 
 `1.` Fill full name in "Name".  
@@ -140,11 +114,13 @@ Steps to submit Emergency Contact:
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp7.png"> 
 
-#### 9. Update TSA secure flight.
+#### 8. Update TSA secure flight.
 
 `1.` Select the gender.  
 
 `2.` Select your birthdate.  
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp8a.png"> 
 
 ```
 Leave the "DHS Redress No." and "TSA Pre DHS Redress No." empty.
@@ -158,4 +134,4 @@ Passport and Visas are only mandatory if the travel is international.
 Select "I do not have a passport" check box if you do not have a passport.
 ```
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp8.png"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp8b.png"> 
