@@ -7,13 +7,13 @@ permalink: /docs/faq
 # FAQs
 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"> For Travel related query please connect with travel.desk@in.panasonic.com
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="42" width="42"> For Travel related query please connect with travel.desk@in.panasonic.com
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"> For Policy related query please connect with Rahul.Raizada@in.panasonic.com
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="42" width="42"> For Policy related query please connect with Rahul.Raizada@in.panasonic.com
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"> For Finance related query please connect with atul.kansal@in.panasonic.com
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="42" width="42"> For Finance related query please connect with atul.kansal@in.panasonic.com
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"> For login/Access related query please connect with poisplus@in.panasonic.com
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="42" width="42"> For login/Access related query please connect with poisplus@in.panasonic.com
 
 ### How do I log in to Concur Travel & Expense?
 + Concur can be accessed through the SSO- Single sign On(Windows login), from anywhere with a stable internet connection.
