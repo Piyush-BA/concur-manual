@@ -50,11 +50,10 @@ If you are logging in for the first time, begin by reviewing and completing your
 
 Field | Description
 --- | --- 
-Trip Search | This section provides the tools you need to book a trip. Flight, Use to book a flight. You an also book hotel and reserve a car at the same time.
+Trip Search | This section will send you to cereate a new request page.
 Alerts | This section displays informational alerts about Travel features.
 Company Notes | Content is provided by your company administrator.
 My Tasks | This section lists Required Approvals, Available Expenses, and Open Reports.
-Request button |  
-
+Request button | Create new requests for domastic, international travel and entertaintment or car requests
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\flow.png">   

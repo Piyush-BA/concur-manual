@@ -40,12 +40,13 @@ If you are arranging travel on **behalf of a traveller**, please ensure you have
 
 ```
 If you are completing the Profile Information for the first time, complete all the required 
-information first and click on SAVE at the end.
+information first and click on SAVE at the end. In case you have no middle name, select the checkbox
+No middle name. Do not add title to your name unless you have the same in the goverment ID.
 ```
 
 `1.` CHECK and ENSURE that **First Name, Middle Name and Last Name** shown on My Profile are identical to the name on the traveller's travel document.
 
-`2.` Click Save to confirm details.
+`2.` Click "Save" to confirm details.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp3.png"> 
 
