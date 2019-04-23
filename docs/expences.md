@@ -34,7 +34,7 @@ Expenses of travel can be added to the Concur management system, once the reques
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex4.png"> 
 
-#### 8. Review expences and adjustments and click on the "Create Expense" to continue.
+#### 8. Review expenses and adjustments and click on the "Create Expense" to continue.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex5.png"> 
 
@@ -78,13 +78,13 @@ Amount should be inclusive of GST e.g. Room rate + GST.
 
 ## Other Expense
 
-Other expences like Local conveyance can be made once Monthly(for ASM).
+Other expenses like Local conveyance can be made once Monthly(for ASM).
 
-#### 1. Click on Create new report.
+#### 1. Click on Create a new report.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot1.png"> 
 
-#### 2. Select "Other Expense" from the list of expense policy.
+#### 2. Select "Other Expense" from the list of the expense policy.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot2.png"> 
 
@@ -92,13 +92,13 @@ Other expences like Local conveyance can be made once Monthly(for ASM).
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot3.png"> 
 
-#### 4. Close the Travel allowence for caim screen.
+#### 4. Close the Travel allowance for claim screen.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot4.png"> 
 
 ```Next screen is for per-diem as its Not required for local claim, so cancel & below screen is applicable for tour only```
 
-#### 5. Click on new expence button to select the expense type.
+#### 5. Click on new Expense button to select the expense type.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot5.png"> 
 

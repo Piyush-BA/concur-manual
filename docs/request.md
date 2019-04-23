@@ -25,7 +25,7 @@ Request type | Description
 --- | --- 
 Domestic Travel | Work travel within India.
 International Travel | Work travel outside India.
-Entertainment Request | Entertainment or food expences with client
-Car & Train Request | Work travel inside india with Car and train
+Entertainment Request | Entertainment or food expenses with client
+Car & Train Request | Work travel inside India with Car and train
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\req.png">  

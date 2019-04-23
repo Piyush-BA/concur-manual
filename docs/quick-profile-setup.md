@@ -7,8 +7,8 @@ permalink: /docs/quick
 # Quick Setup to Traveler's Profile
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> **Traveller MUST review and confirm their profile information!**
 
-Traveller Profile Information must be kept up-to-date with details in accordance with your current travel document (Goverment approved ID e.g. passport, Aadhar that you will be using for travel).
-The traveller may be turned down at the gate if the name on the travel document used (Goverment approved ID e.g. passport, Aadhar or any other travel identification) does not match the name on the ticket issued by the Travel agent.
+Traveller Profile Information must be kept up-to-date with details in accordance with your current travel document (Government approved ID e.g. passport, Aadhar that you will be using for travel).
+The traveller may be turned down at the gate if the name on the travel document used (Government approved ID e.g. passport, Aadhar or any other travel identification) does not match the name on the ticket issued by the Travel agent.
 
 The traveller must update their profile *whenever the information has changed.*
 It is the **Traveller's responsibility** to ensure that Profile Information is up-to-date with details according to their current travel document.
@@ -22,6 +22,9 @@ If you are arranging travel on **behalf of a traveller**, please ensure you have
 + Emergency Contact
 + TSA secure flight, Gender, DOB
 + Passport and visa
+
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\image5.jpeg"> 
 
 
 ## Steps to update the Traveller's profile:  
@@ -69,7 +72,7 @@ Indicate by selecting the "No Middle Name" tick-box, if required.
 Field | Description
 --- | --- 
 Assigned location | Select the location of your assigned working location.
-Address same as the assigned location | Select this check box if you work at the same location as your Assigned Location.
+Address the same as the assigned location | Select this check box if you work at the same location as your Assigned Location.
 
 
 #### 6. Update Contact Information details
@@ -86,7 +89,7 @@ Address same as the assigned location | Select this check box if you work at the
 
 Field | Description
 --- | --- 
-Work Phone | The phone number used for Work related puproses.
+Work Phone | The phone number used for Work-related purposes.
 Home Phone | Phone number to connect your home.
 Mobile phone | Your mobile phone number.
 
@@ -114,7 +117,7 @@ Steps to submit Emergency Contact:
 
 #### 8. Update TSA secure flight.
 
-`1.` Select the gender.  
+`1.` Select your gender.  
 
 `2.` Select your birthdate.  
 

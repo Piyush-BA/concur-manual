@@ -12,7 +12,7 @@ To download the app, access your mobile app store and search for Concur. Once th
 
 #### 1. Using your computer, sign into Concur
 
-#### 2. On the upper right hand corner of the screen, click Profile, then Profile settings
+#### 2. On the upper right-hand corner of the screen, click Profile, then Profile settings
 
 #### 3. Under Other Settings, click on "Concur Mobile Registration".
 
@@ -42,7 +42,7 @@ Once your Mobile PIN is created, log into the app using your UID@in.panasonic us
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob4.jpg"> 
 
-#### 7. Enter SSO Code "GRWK" for Sign In.
+#### 7. Enter the SSO Code "GRWK" for Sign In.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob5.jpg"> 
 

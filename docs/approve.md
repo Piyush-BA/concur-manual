@@ -9,11 +9,11 @@ nav_order: 3
 
 ### Role- Approver
 
-Travel Approver will receive an email notification when there is a requisition waiting for your approval. To review the request, login to Concur (Concur web link address is available at the bottom of the email received).
+Travel Approver will receive an email notification when there is a requisition waiting for your approval. To review the request, log in to Concur (Concur web link address is available at the bottom of the email received).
 Note:
 If you are approving Travel on behalf of another Approver, refer to notes under Delegating Approval – Approving Travel as an Approval Delegate.
 
-#### 1. On the Homepage, click on **Approvals** tab.
+#### 1. On the Homepage, click on the **Approvals** tab.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req8.png"> 
 
@@ -40,7 +40,7 @@ A list of Requests waiting for your approval will be listed if any.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req12.png"> 
 
-#### 5. Use the "Send Back Request", if you require further information from the traveller or want to decline the travel request.
+#### 5. Use the "Send Back Request" if you require further information from the traveller or want to decline the travel request.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\re.png"> 
 
