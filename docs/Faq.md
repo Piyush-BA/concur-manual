@@ -33,7 +33,7 @@ permalink: /docs/faq
 + Expense report are to be submitted monthly within 30 days of the date of the expenses. While Concur does not restrict submission of expense reports more often, it is highly recommended that users submit monthly.
 
 ### What should put as the Report name?
-+ ??? 
++ Add the reason of expenses made.
 
 ### Will someone else be able to create my expense report on my behalf?
 + Yes, you can assign a delegate to create expense reports and make online travel reservation on your behalf. 
