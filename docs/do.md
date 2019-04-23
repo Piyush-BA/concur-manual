@@ -2,7 +2,7 @@
 layout: default
 title: Do's and don'ts
 nav_order: 10
-permalink: /docs/faq
+permalink: /docs/do
 ---
 # Do's and don'ts
 
