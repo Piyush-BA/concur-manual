@@ -5,7 +5,7 @@ nav_order: 3
 permalink: /docs/quick
 ---
 # Quick Setup to Traveler's Profile
-**Traveller MUST review and confirm their profile information!**
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> **Traveller MUST review and confirm their profile information!**
 
 Traveller Profile Information must be kept up-to-date with details in accordance with your current travel document (Goverment approved ID e.g. passport, Aadhar that you will be using for travel).
 The traveller may be turned down at the gate if the name on the travel document used (Goverment approved ID e.g. passport, Aadhar or any other travel identification) does not match the name on the ticket issued by the Travel agent.
@@ -15,7 +15,7 @@ It is the **Traveller's responsibility** to ensure that Profile Information is u
 
 If you are arranging travel on **behalf of a traveller**, please ensure you have confirmed with the traveller that their profile is up-to-date.
 
-*Minimum Personal Information Required:*
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> *Minimum Personal Information Required:*
 + Name
 + Work Address
 + Contact Information
@@ -40,8 +40,7 @@ If you are arranging travel on **behalf of a traveller**, please ensure you have
 
 ```
 If you are completing the Profile Information for the first time, complete all the required 
-information first and click on SAVE at the end. In case you have no middle name, select the checkbox
-No middle name. Do not add title to your name unless you have the same in the goverment ID.
+information first and click on SAVE at the end.
 ```
 
 `1.` CHECK and ENSURE that **First Name, Middle Name and Last Name** shown on My Profile are identical to the name on the traveller's travel document.
@@ -52,7 +51,8 @@ No middle name. Do not add title to your name unless you have the same in the go
 
 
 ```
-Title: Prefix to your name. If your title is not in the list, keep it empty.
+Title: Prefix to your name. Do not add title to your name unless you have the same in
+the goverment ID.
 Indicate by selecting the "No Middle Name" tick-box, if required.
 ```
 #### 5. Update Work Address details.
@@ -98,9 +98,6 @@ ONLY be sent to the Primary Mobile Phone number.
 If a different mobile number is used while travelling, please ensure Primary Mobile 
 Phone is updated on your profile.
 ```
-
-
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp6.png"> 
 
 #### 7. Update Emergency Contact:
 Steps to submit Emergency Contact:  

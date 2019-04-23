@@ -2,10 +2,15 @@
 layout: default
 title: Submit Requests 
 nav_order: 5
+has_children: true
 permalink: /docs/request
 ---
 # Submit Requests
 ### Role- Employee
+
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req.png"> 
+
 
 As an employee, you must request your reporting manager to approve your expense estimate. The request  can only be submitted once all the required mandatory sections have been completed. Required mandatory sections- Request header, Segments.
 You can complete this process by following these steps:-
@@ -22,14 +27,14 @@ Request type | Description
 --- | --- 
 Domestic Travel | Work travel within India.
 International Travel | Work travel outside India.
-Entertainment Request | **???**
-Car & Train Request | **???**
+Entertainment Request | Entertainment or food expences with client
+Car & Train Request | Work travel inside india with Car and train
 
 #### 4. Enter the name of the request. For Eg. Sales Training 
 
 #### 5. Select the booking type. Select "Self-booked in Concur Travel" if you want to create the booking within the system, else select "Booked by other sources".
 
-#### 6. Leave the Personal/Family Travel as No. Concur system currently does not support this feature.
+```6. Leave the Personal/Family Travel as No. Concur system currently does not support this feature.```
 
 #### 7. Select the Start Date and the End Date. Duration will be calculated automatically when we save the details.
 

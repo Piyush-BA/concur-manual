@@ -6,7 +6,7 @@ permalink: /docs/setup
 ---
 # Setup Mobile device
 
-The Concur App syncs with the website to upload receipt photos.  It can also be used to prepare and approve expense reports. The Concur app is available for Android and iPhone.
+The Concur App syncs with the website to upload receipt photos.  It can also be used to prepare and approve expense reports. The Concur app is available for <img src="{{ site.url }}{{ site.baseurl }}\assets\images\play.png"  height="22" width="22"> Android and <img src="{{ site.url }}{{ site.baseurl }}\assets\images\app.png"  height="22" width="22"> iPhone.
 
 To download the app, access your mobile app store and search for Concur. Once the app is installed on your phone log into Concur to set up a Mobile PIN.
 
@@ -33,3 +33,21 @@ Combination of uppercase, lowercase and numeric characters
 [Android](https://play.google.com/store/apps/details?id=com.concur.breeze&hl=en){: .btn .btn-blue }
 
 Once your Mobile PIN is created, log into the app using your UID@in.panasonic username (ex. 12345678@in.panasonic.com) and your Mobile PIN.
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob3.png"> 
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob3a.png"> 
+
+#### 6. Login in Via SSO Company Code Sign In.
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob4.png"> 
+
+#### 7. Enter SSO Code "GRWK" for Sign In.
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob5.png"> 
+
+#### 8. Use your system ID i.e IN\user.name
+
+#### 9. Password: your SSO login password
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob6.png"> 
