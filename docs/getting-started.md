@@ -55,5 +55,6 @@ Alerts | This section displays informational alerts about Travel features.
 Company Notes | Content is provided by your company administrator.
 My Tasks | This section lists Required Approvals, Available Expenses, and Open Reports.
 Request button | Create new requests for domestic, international travel and entertainment or car requests
+Expense button | Create, submit and update Expense reports
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\flow.png">   

@@ -6,6 +6,8 @@ permalink: /docs/do
 ---
 # Do's and don'ts
 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\do.jpg"> 
+
 ## Do's
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> Make sure to always choose “Corporate Fare” in LCC “INDIGO / SPICEJET / GO AIR / AIR ASIA”.

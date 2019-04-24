@@ -28,9 +28,9 @@ Combination of uppercase, lowercase and numeric characters
 
 #### 5. Download app by using the link below
 
-[Apple](https://itunes.apple.com/us/app/concur-travel-receipts-expense/id335023774?mt=8){: .btn .btn-blue }
+[<img src="{{ site.url }}{{ site.baseurl }}\assets\images\app.png"  height="22" width="22"> Apple](https://itunes.apple.com/us/app/concur-travel-receipts-expense/id335023774?mt=8){: .btn .btn-blue }
 
-[Android](https://play.google.com/store/apps/details?id=com.concur.breeze&hl=en){: .btn .btn-blue }
+[<img src="{{ site.url }}{{ site.baseurl }}\assets\images\play.png"  height="22" width="22"> Android](https://play.google.com/store/apps/details?id=com.concur.breeze&hl=en){: .btn .btn-blue }
 
 Once your Mobile PIN is created, log into the app using your UID@in.panasonic username (ex. 12345678@in.panasonic.com) and your Mobile PIN.
 
