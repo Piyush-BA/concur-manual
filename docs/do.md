@@ -6,7 +6,7 @@ permalink: /docs/do
 ---
 # Do's and don'ts
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\do.jpg"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\Do.jpg"> 
 
 ## Do's
 
