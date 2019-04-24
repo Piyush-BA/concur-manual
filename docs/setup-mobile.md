@@ -34,20 +34,20 @@ Combination of uppercase, lowercase and numeric characters
 
 Once your Mobile PIN is created, log into the app using your UID@in.panasonic username (ex. 12345678@in.panasonic.com) and your Mobile PIN.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob3.jpg" width="66"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob3.jpg" width="266"> 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob3a.png" width="66"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob3a.png" width="266"> 
 
 #### 6. Login in Via SSO Company Code Sign In.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob4.jpg" width="88"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob4.jpg" width="288"> 
 
 #### 7. Enter the SSO Code "GRWK" for Sign In.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob5.jpg" width="88"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob5.jpg" width="288"> 
 
 #### 8. Use your system ID i.e IN\user.name
 
 #### 9. Password: your SSO login password
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob6.jpg" width="88"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob6.jpg" width="288"> 
