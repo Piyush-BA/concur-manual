@@ -25,7 +25,7 @@ Self-booked in Concur Travel: in case you are booking for round trip e.g. Delhi 
 Booked by other sources: in case you booking is multi-city trip e.g. Delhi To Mumbai, Mumbai to Chennai, Chennai to Delhi, this will be booked offline, please send approved request number to travel desk for booking. 
 ```
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\req.png"  height="22" width="22">
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\req.png">
 
 #### 4. Leave the Personal/Family Travel as No. Concur system currently does not support this feature.
 
@@ -36,10 +36,6 @@ Booked by other sources: in case you booking is multi-city trip e.g. Delhi To Mu
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req2.png"> 
 
 #### 9.  Now in the segments section, click on Air ticket, cab or Hotel reservation icon to add the details.
-
-```Air```
-
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\air.png"> 
 
 ```hotel```
 
@@ -52,6 +48,10 @@ Booked by other sources: in case you booking is multi-city trip e.g. Delhi To Mu
 ```Cab```
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\cab.png"> 
+
+```Air```
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\air.png"> 
 
 #### 10. Add estimated amount, To and From locations and Time of departure.
 
