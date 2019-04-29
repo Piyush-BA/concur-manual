@@ -51,7 +51,16 @@ Once your Mobile PIN is created, log into the app using your UID@in.panasonic us
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob5.jpg" width="288"> 
 
 #### 8. Use your system ID i.e IN\user.name
+`user id-eg in\mohit.parkash`
 
 #### 9. Password: your SSO login password
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob6.jpg" width="288"> 
+
+```
+note: Sometimes due to network issue you might have to re-enter your username and password.
+```
+
+```
+once you are loged in to the system, there is no need to log in again.
+```

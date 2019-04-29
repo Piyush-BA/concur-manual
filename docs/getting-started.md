@@ -30,7 +30,7 @@ Steps to Sign In:
 
 ***
 
-## Dashboard
+## Main Screen
 
 In the dashboard, we have a summary of the Concur system. Depending on user access level, you may see the following options on your Homepage. The dashboard contains the following features:
 

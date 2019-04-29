@@ -9,9 +9,6 @@ permalink: /docs/request
 ### Role- Employee
 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req.png"> 
-
-
 As an employee, you must request your reporting manager to approve your expense estimate. The request  can only be submitted once all the required mandatory sections have been completed. Required mandatory sections- Request header, Segments.
 You can complete this process by following these steps:-
 
