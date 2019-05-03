@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Entertainment Request
-parent: Submit Requests 
+parent: Requests 
 nav_order: 2
 ---
 

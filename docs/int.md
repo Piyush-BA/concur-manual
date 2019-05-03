@@ -1,7 +1,7 @@
 ---
 layout: default
 title: International Travel Request
-parent: Submit Requests 
+parent: Requests 
 nav_order: 2
 ---
 # International Travel
