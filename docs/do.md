@@ -1,24 +1,23 @@
 ---
 layout: default
-title: Do's and don'ts
+title: Do's and Don'ts
 nav_order: 10
-permalink: /docs/do
 ---
-# Do's and don'ts
+# Do's and Don'ts
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\Do.jpg"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\Do.jpg" height="222" width="161"> 
 
 ## Do's
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> Make sure to always choose “Corporate Fare” in LCC “INDIGO / SPICEJET / GO AIR / AIR ASIA”.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> User need to read all points before booking tickets.
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> User needs to read all points before booking tickets.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> In Case of Cancellation user needs to send mail to Travel Desk.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22">The extension needs to be put in Concur while making any changes (Rescheduling  /Changes).
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For LCC carriers tickets will automatically be issued to the user doesn’t need to send the mail to ETS. 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For LCC carriers tickets will automatically be issued to the user, he doesn’t need to send the mail to ETS. 
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For convenience tol-free number 1800-209-2665/ Ravinder 9818375797/Dilip 9650144386.
 
@@ -26,13 +25,13 @@ permalink: /docs/do
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> You can recall your request before approval from the Reporting Manager.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> A Single request can be made for AIR & Hotel.
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> A Single request can be made for Air & Hotel.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> A Separate request for Cab and Taxi if required, an extension can be mapped with Air and Hotel booking.
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> A Separate request for Cab or Taxi if required, an extension can be mapped with Air and Hotel booking.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> The request for international tickets will be raised concur but literary and tickets will be done offline.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> The User needs to create a request at least 5 days prior so that his Reporting Manager can approve the request in Concur.
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> The User needs to create a request at least 5 days prior to the travel so that his Reporting Manager can approve the request in Concur.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> No offline tickets will be entertained. Offline tickets will be issued in case of International tickets after the request get approved on Concur.
 

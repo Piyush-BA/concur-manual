@@ -2,7 +2,6 @@
 layout: default
 title: Bookings
 nav_order: 7
-permalink: /docs/bookings
 ---
 # Bookings
 ### Role- requester

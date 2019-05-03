@@ -2,7 +2,6 @@
 layout: default
 title: Setup Mobile device
 nav_order: 4
-permalink: /docs/setup
 ---
 # Setup Mobile device
 

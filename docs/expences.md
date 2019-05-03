@@ -2,7 +2,6 @@
 layout: default
 title: Expenses
 nav_order: 8
-permalink: /docs/expences
 ---
 # Expenses
 

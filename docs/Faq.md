@@ -2,7 +2,6 @@
 layout: default
 title: FAQs
 nav_order: 9
-permalink: /docs/faq
 ---
 # FAQs
 

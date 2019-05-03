@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Submit Requests 
+title: Requests 
 nav_order: 5
 has_children: true
-permalink: /docs/request
 ---
 # Submit Requests
 ### Role- Employee
@@ -14,7 +13,7 @@ You can complete this process by following these steps:-
 
 #### 1. Log in to the system.
 
-#### 2. From the dashboard click on "Create a New Request" tab.
+#### 2. From the dashboard click on "Start a Request" tab to create a new request.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req1.png">  
 

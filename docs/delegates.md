@@ -2,7 +2,6 @@
 layout: default
 title: Delegation on behalf
 nav_order: 6
-permalink: /docs/Delegation
 ---
 # Delegation on behalf
 
@@ -42,3 +41,5 @@ Sometimes we are not able to complete the process on our own. In these cases, we
 #### 2. Click on Profile and select the delegated user. 
 
 #### 3. Now you can access the account of the user.
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del5.png"> 

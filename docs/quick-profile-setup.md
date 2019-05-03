@@ -2,7 +2,6 @@
 layout: default
 title: Quick profile setup
 nav_order: 3
-permalink: /docs/quick
 ---
 # Quick Setup to Traveler's Profile
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> **Traveller MUST review and confirm their profile information!**
