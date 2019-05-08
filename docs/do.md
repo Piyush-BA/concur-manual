@@ -4,7 +4,6 @@ title: Do's and Don'ts
 nav_order: 10
 ---
 # Do's and Don'ts
-
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\Do.jpg" height="222" width="161"> 
 
 ## Do's

@@ -34,7 +34,7 @@ nav_order: 3
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent3b.png">
 
-#### 8. Add City exected date and reason of the segment.
+#### 8. Add estimate amount, City exected date and reason of the segment.
 
 #### 9. Add "Person Name", as the person for who you need this segment.
 
