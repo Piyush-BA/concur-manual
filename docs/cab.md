@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Entertainment Request
+title: Cab and Train Request
 parent: Requests 
 nav_order: 4
 ---
@@ -54,8 +54,8 @@ nav_order: 4
 
 #### 10. Drop location an time.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent5.png">
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\cab5.png">
 
 #### 11. Click on "Submit" button to submit this request.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent6.png">
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\cab6.png">
