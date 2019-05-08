@@ -8,9 +8,9 @@ nav_order: 3
 # Entertainment Request
 
 
-#### 1. Select your Travel Purpose from the drop-down list as Entertainment Request. 
+#### 1. Select your Travel Purpose from the drop-down list as "Entertainment Request". 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent1.png">
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent1a.png">
 
 #### 2. Enter the name of the request.
 
@@ -22,7 +22,7 @@ nav_order: 3
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent1.png">
 
-You might face an error : You are not eligible to request the entertainment claim. You can contact the administrator if required.
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> You might face an error : You are not eligible to request the entertainment claim. You can contact the administrator if required.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent2.png">
 
