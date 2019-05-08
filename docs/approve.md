@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Approve request
-parent: Submit Requests 
+parent: Requests
 nav_order: 3
 ---
 

@@ -21,8 +21,11 @@ International Travel | Work travel outside India.
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22">
 
 ```
-Self-booked in Concur Travel: in case you are booking for round trip e.g. Delhi To Mumbai one way or round trip. Post approval Book button will appear
-Booked by other sources: in case you booking is multi-city trip e.g. Delhi To Mumbai, Mumbai to Chennai, Chennai to Delhi, this will be booked offline, please send approved request number to travel desk for booking. 
+Self-booked in Concur Travel: in case you are booking for round trip 
+e.g. Delhi To Mumbai one way or round trip. Post approval Book button will appear
+
+Booked by other sources: in case you booking is multi-city trip 
+e.g. Delhi To Mumbai, Mumbai to Chennai, Chennai to Delhi, this will be booked offline, please send approved request number to travel desk for booking. 
 ```
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\req.png">

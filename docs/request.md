@@ -4,7 +4,7 @@ title: Requests
 nav_order: 5
 has_children: true
 ---
-# Submit Requests
+# Requests
 ### Role- Employee
 
 
