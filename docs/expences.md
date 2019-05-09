@@ -41,3 +41,11 @@ Expense Policy | Description
 International travel Expense | Expenses made on International travel
 Domestic travel Expense | Domestic made on International travel
 Other Expense | Local like Local conveyance 
+
+---
+
+The basic steps to complete an expense report are:
+
+> Create the report, providing the report-level information (such as the expense report name, purpose of the report, and so on).
+
+> Add the associated out-of-pocket expenses and attach the imported credit card transactions to the expense report, providing expense detail.
