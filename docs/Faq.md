@@ -26,7 +26,7 @@ nav_order: 9
 + The first time you log into Concur Travel & Expense, you should review and update your profile. You must enter your banking information. 
 
 ### How do I create an expense report?
-+  Go to the manual section<a href="{{ site.url }}{{ site.baseurl }}docs/expences">Expense report</a>
++  Go to the manual section <a href="{{ site.url }}{{ site.baseurl }}docs/expences"> Expense report</a>
 
 ### How often should I complete an expense report?
 + Expense report are to be submitted monthly within 30 days of the date of the expenses. While Concur does not restrict submission of expense reports more often, it is highly recommended that users submit monthly.
@@ -38,7 +38,7 @@ nav_order: 9
 + Yes, you can assign a delegate to create expense reports and make online travel reservation on your behalf. 
 
 ### How do I assign a delegate?
-+ Go to the manual section<a href="{{ site.url }}{{ site.baseurl }}docs/Delegation">Delegation</a>
++ Go to the manual section <a href="{{ site.url }}{{ site.baseurl }}docs/Delegation"> Delegation</a>
 
 ### How will my approver know that my expense report is ready to approve?
 +  Concur will send automatic email notifications to your approver immediately upon submittal and at day 5 if the approve has not yet approved your report. 
@@ -56,7 +56,7 @@ nav_order: 9
 + Your department head will determine who the appropriate default approver is for your expense reports. To check who your current expense approver in Concur is, click Profile, Expense Approvers
 
 ### Can I use Concur Travel & Expense through my Smartphone?
-+ Yes, Concur Mobile app is available for iPhone and Android. The Concur Mobile app allows you to make your travel reservation, complete and submit expense reports, and upload pictures of receipts to receipts store. Go to the manual section<a href="{{ site.url }}{{ site.baseurl }}docs/setup">Setup Mobile Device</a>
++ Yes, Concur Mobile app is available for iPhone and Android. The Concur Mobile app allows you to make your travel reservation, complete and submit expense reports, and upload pictures of receipts to receipts store. Go to the manual section <a href="{{ site.url }}{{ site.baseurl }}docs/setup"> Setup Mobile Device</a>
 
 ### Who should I contact for assistance with Concur Expense?
 +  In case you have a problem that you are unable to solve by yourself, Please try contacting the "IT department" Or send an Email to “genesis.support@in.panasonic.com”
