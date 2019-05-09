@@ -4,6 +4,10 @@ title: Quick profile setup
 nav_order: 3
 ---
 # Quick Setup to Traveler's Profile
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\image5.jpeg"> 
+
+
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> **Traveller MUST review and confirm their profile information!**
 
 Traveller Profile Information must be kept up-to-date with details in accordance with your current travel document (Government approved ID e.g. passport, Aadhar that you will be using for travel).
@@ -22,8 +26,6 @@ If you are arranging travel on **behalf of a traveller**, please ensure you have
 + TSA secure flight, Gender, DOB
 + Passport and visa
 
-
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\image5.jpeg"> 
 
 
 ## Steps to update the Traveller's profile:  
