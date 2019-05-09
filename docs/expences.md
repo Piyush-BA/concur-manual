@@ -44,8 +44,8 @@ Other Expense | Local like Local conveyance
 
 ---
 
-The basic steps to complete an expense report are:
+**The basic steps to complete an expense report are:**
 
 > Create the report, providing the report-level information (such as the expense report name, purpose of the report, and so on).
 
-> Add the associated out-of-pocket expenses and attach the imported credit card transactions to the expense report, providing expense detail.
+> Add the associated out-of-pocket expenses and attach the transactions to the expense report, providing expense detail.
