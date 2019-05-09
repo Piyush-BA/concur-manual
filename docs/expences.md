@@ -12,14 +12,31 @@ Expenses of travel can be added to the Concur management system, once the reques
 
 #### 1. Log in to the system.
 
+#### 2. From the navigation tab, click on expenses.
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\exp1.png"> 
+
+#### 3. Click or "Create new Report".
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\exp2.png"> 
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\exp3.png"> 
+
+---
+
+### Alternative method
+
+#### 1. Log in to the system.
+
 #### 2. Go to the request section.
 
 #### 3. Click on the "Expense" option from one of the approved requests.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex1.png"> 
 
+---
 
-Field | Description
+Expense Policy | Description
 --- | ---
 International travel Expense | Expenses made on International travel
 Domestic travel Expense | Domestic made on International travel
