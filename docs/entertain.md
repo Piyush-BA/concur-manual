@@ -21,7 +21,7 @@ To understand about the Entertainment request policy of Panasonic india <a href=
 
 #### 5. Add comments if any and click on save.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent1.png">
+<img id="myImg" src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent1.png">
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> You might face an error : You are not eligible to request the entertainment claim. You can contact the administrator if required.
 

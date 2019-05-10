@@ -16,7 +16,7 @@ Steps to Sign In:
 
 `1.` Open the Sign In page of Concur.
 
-[Sign In page](https://www.concur.in.panasonic.com){: .btn .btn-blue }
+[Sign In page](www.concur.in.panasonic.com){: .btn .btn-blue }
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\Sgn1.png">
 
