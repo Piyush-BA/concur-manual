@@ -7,6 +7,7 @@ nav_order: 3
 
 # Entertainment Request
 
+To understand about the Entertainment request policy of Panasonic india <a href="{{ site.url }}{{ site.baseurl }}\assets\images\ent.pdf">click here</a>
 
 #### 1. Select your Travel Purpose from the drop-down list as "Entertainment Request". 
 

@@ -8,7 +8,7 @@ nav_order: 9
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For Travel related query please connect with `travel.desk@in.panasonic.com`.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For Policy related query please connect with `Rahul.Raizada@in.panasonic.com`.
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For Policy related query please connect with `hr.desk@in.panasonic.com`.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For Finance related query please connect with `atul.kansal@in.panasonic.com`.
 

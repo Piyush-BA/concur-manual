@@ -28,7 +28,9 @@ Expenses of travel can be added to the Concur management system, once the reques
 #### 6. Add new itinerary stop and click on next to continue.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex3.png"> 
-
+```
+In case your city is not available in the list, kingly log in with poisplus@in.panasonic.com.
+```
 #### 7. Review assigned itineraries and click on next to continue.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex4.png"> 

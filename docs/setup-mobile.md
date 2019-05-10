@@ -27,13 +27,9 @@ Combination of uppercase, lowercase and numeric characters
 
 #### 5. Download app by using the link below
 
-<a href="(https://itunes.apple.com/us/app/concur-travel-receipts-expense/id335023774?mt=8" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}\assets\images\app.png"  height="22" width="22"> thesitewizard.com</a>{: .btn .btn-blue }
+<a href="https://itunes.apple.com/us/app/concur-travel-receipts-expense/id335023774?mt=8" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}\assets\images\app.png"  height="22" width="22"> Apple</a>{: .btn .btn-blue }
 
-<a href="https://play.google.com/store/apps/details?id=com.concur.breeze&hl=en" target="_blank"> <img src="{{ site.url }}{{ site.baseurl }}\assets\images\play.png"  height="22" width="22"> thesitewizard.com</a>{: .btn .btn-blue }
-
-[<img src="{{ site.url }}{{ site.baseurl }}\assets\images\app.png"  height="22" width="22"> Apple](https://itunes.apple.com/us/app/concur-travel-receipts-expense/id335023774?mt=8){: .btn .btn-blue }
-
-[<img src="{{ site.url }}{{ site.baseurl }}\assets\images\play.png"  height="22" width="22"> Android](https://play.google.com/store/apps/details?id=com.concur.breeze&hl=en){: .btn .btn-blue }
+<a href="https://play.google.com/store/apps/details?id=com.concur.breeze&hl=en" target="_blank"> <img src="{{ site.url }}{{ site.baseurl }}\assets\images\play.png"  height="22" width="22"> Android</a>{: .btn .btn-blue }
 
 Once your Mobile PIN is created, log into the app using your UID@in.panasonic username (ex. 12345678@in.panasonic.com) and your Mobile PIN.
 
@@ -59,6 +55,8 @@ Once your Mobile PIN is created, log into the app using your UID@in.panasonic us
 #### 9. Password: your SSO login password
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob6.jpg" width="288"> 
+
+
 
 ```
 note: Sometimes due to network issue you might have to re-enter your username and password.
