@@ -27,17 +27,9 @@ Combination of uppercase, lowercase and numeric characters
 
 #### 5. Download app by using the link below
 
+<a href="(https://itunes.apple.com/us/app/concur-travel-receipts-expense/id335023774?mt=8" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}\assets\images\app.png"  height="22" width="22"> thesitewizard.com</a>{: .btn .btn-blue }
 
-<li>
-						<a title="This app is available on iPhone. Click the icon to get it at Apple App Store." href="https://itunes.apple.com/us/app/concur-travel-receipts-expense/id335023774?mt=8" target="_blank" onclick="LogMetric('DownloadLinkClicked','iOS')">
-							<i class="icon-logomark-apple"></i>
-						</a>
-					</li>
-<li>
-						<a title="This app is available on Android. Click the icon to get it at the Google play store." href="https://play.google.com/store/apps/details?id=com.concur.breeze&amp;hl=en" target="_blank" onclick="LogMetric('DownloadLinkClicked','Android')">
-							<i class="icon-logomark-android"></i>
-						</a>
-					</li>
+<a href="https://play.google.com/store/apps/details?id=com.concur.breeze&hl=en" target="_blank"> <img src="{{ site.url }}{{ site.baseurl }}\assets\images\play.png"  height="22" width="22"> thesitewizard.com</a>{: .btn .btn-blue }
 
 [<img src="{{ site.url }}{{ site.baseurl }}\assets\images\app.png"  height="22" width="22"> Apple](https://itunes.apple.com/us/app/concur-travel-receipts-expense/id335023774?mt=8){: .btn .btn-blue }
 

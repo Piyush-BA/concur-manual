@@ -4,6 +4,9 @@ title: Bookings
 nav_order: 7
 ---
 # Bookings
+
+## Air fare
+
 ### Role- requester
 
 #### 1. Log in to the system.
@@ -63,3 +66,6 @@ Duplicate booking | Your booking may have been proposed, Please contact travel d
 Network timeout | If this error occors try using chrome browser.
 Itnery not avilable | Check your flight itnery, If still not resolved contact travel desk @ travel.desk@in.panasonic.com  
 Limit exced | If this error occors contact travel desk @ travel.desk@in.panasonic.com  
+
+## Hotel booking
+
