@@ -34,6 +34,7 @@ Delegation is the assignment of any responsibility or authority to another perso
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del4.png"> 
 
 ## 2 Access a Delegated account
+
 ### Role- All users
 
 #### 1. Log in to the system.  
