@@ -5,6 +5,10 @@ nav_order: 7
 ---
 # Bookings
 
+```
+In case you have not selected self booking. This feature will not be available.
+```
+
 ## Air fare
 
 ### Role- requester
@@ -16,6 +20,8 @@ nav_order: 7
 #### 3. Select a request that is approved.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo1.png">
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo16.png">
 
 #### 4. Click on the "Book with concur travel" button.
 
