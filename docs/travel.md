@@ -39,10 +39,12 @@ In case your city is not available in the list, kingly log in with poisplus@in.p
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex5.png"> 
 
+```Here Training with meal will come by default kindly uncheck it from the list.```
+
 #### 9. Check the expenses list and add new expenses if any.
 
 ```
-In case per diem window get missed click on Details > Create new itinerary .
+In case per diem window get missed click on Details > Create new itinerary.
 Click on new expense to add other expense type e.g ( Local / Self drive / Hotel).
 ```
 
