@@ -53,3 +53,13 @@ nav_order: 7
 #### 12. Send or print the Itinerary.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo15.png">
+
+
+There is an posibility that you might recieve an error while booking:-
+
+Error | Description
+--- | ---
+Duplicate booking | Your booking may have been proposed, Please contact travel desk @ travel.desk@in.panasonic.com
+Network timeout | If this error occors try using chrome browser.
+Itnery not avilable | Check your flight itnery, If still not resolved contact travel desk @ travel.desk@in.panasonic.com  
+Limit exced | If this error occors contact travel desk @ travel.desk@in.panasonic.com  

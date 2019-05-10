@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Delegation on behalf
-nav_order: 6
+nav_order: 5
 ---
 # Delegation on behalf
 

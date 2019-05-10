@@ -7,11 +7,10 @@ nav_order: 5
 
 # Approve Request
 
-### Role- Approver
+### Role- Manager or deligated users
 
 Travel Approver will receive an email notification when there is a requisition waiting for your approval. To review the request, log in to Concur (Concur web link address is available at the bottom of the email received).
-Note:
-If you are approving Travel on behalf of another Approver, refer to notes under Delegating Approval – Approving Travel as an Approval Delegate.
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> Note: If you are approving Travel on behalf of another Approver, refer to notes under Delegating Approval – Approving Travel as an Approval Delegate.
 
 #### 1. On the Homepage, click on the **Approvals** tab.
 
@@ -56,3 +55,6 @@ for returning the request to the traveller.
 #### 7. Else, To Approve click on the "Approve" button.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\re.png"> 
+
+---
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> if single system will provide error, contact the travel desk in case of approval.
