@@ -41,21 +41,15 @@ please send approved request number to travel desk for booking.
 
 #### 9.  Now in the segments section, click on Air ticket, cab or Hotel reservation icon to add the details.
 
-```hotel```
-
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\hot.png"> 
-
-```Rail```
-
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\rail.png"> 
-
-```Cab```
-
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\cab.png"> 
+**All red fields are mandatory.**
 
 ```Air```
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\air.png"> 
+
+```hotel```
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\hot.png"> 
 
 #### 10. Add estimated amount, To and From locations and Time of departure.
 

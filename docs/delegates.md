@@ -34,10 +34,13 @@ Delegation is the assignment of any responsibility or authority to another perso
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del4.png"> 
 
 ```
-Can Approve- If you want the user to accept requests on your behalf, check this item.
-Can Approve Temprorary- If you want to provide access to accept request for a specific
+Can Approve Check box- If you want the user to accept requests on your behalf, check this item.
+Can Approve Temprorary Check box- If you want to provide access to accept request for a specific
 time. Check this item. 
 ```
+
+```If Can Approve checkbox is not available, this means that the selected user don't have n approvers access```
+
 
 ## 2 Access a Delegated account
 
