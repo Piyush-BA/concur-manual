@@ -39,6 +39,10 @@ please send approved request number to travel desk for booking.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req2.png"> 
 
+```If you need to update an old approved request, just add a new request and attach it to the old request by adding it in "Extension of" field.```
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\ext.png"> 
+
 #### 9.  Now in the segments section, click on Air ticket, cab or Hotel reservation icon to add the details.
 
 **All red fields are mandatory.**
