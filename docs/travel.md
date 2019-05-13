@@ -51,6 +51,11 @@ In case your city is not available in the list, kindly log in with poisplus@in.p
 
 #### 8. Review expenses and adjustments and click on the "Create Expense" to continue.
 
+```Self stay - In case you have decided to choos your accomodation by yourself, this checkbox has to be checked. So that self stay amount can be calculated and added to your expense.```
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ab1.png"> 
+
+
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex5.png"> 
 
 ```Here Training with meal will come by default kindly uncheck it from the list.```
