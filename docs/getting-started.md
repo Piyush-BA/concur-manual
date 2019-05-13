@@ -18,10 +18,19 @@ Steps to Sign In:
 
 [Sign In page](www.concur.in.panasonic.com){: .btn .btn-blue }
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\Sgn1.png">
-
 `2.` The system will log in via SSO(Windows login). 
 ***  
+
+***In case you are not in Panasonic network, Log in to concur.in.panasonic.com will open below screen.***
+
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\Login.png">
+Please Enter your Domain username and password. 
+
+```E.g. in\mohit.parkash```
+```Password: Windows password``
+
+
 ### Note:
 1. For best user experience, Concur recommends the use of Internet Explorer version 10 or later; Google Chrome version 30 or later; or Mozilla Firefox version 25 or later.
 2. Ensure pop-ups are enabled.
