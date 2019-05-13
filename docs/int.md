@@ -39,6 +39,8 @@ Always select booking type as Booked by other sources in International travel.
 
 #### 10. If the request is an extension of any other request, fill the name of that request.
 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\int.png"> 
+
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req13.png"> 
 
 ```Air```
