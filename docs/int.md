@@ -53,10 +53,6 @@ Always select booking type as Booked by other sources in International travel.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\rail.png"> 
 
-```Cab```
-
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\cab.png"> 
-
 #### 10. Add estimated amount, To and From locations and Time of departure.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req3.png"> 
