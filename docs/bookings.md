@@ -66,17 +66,28 @@ In case you have not selected self booking. This feature will not be available.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo17.png">
 
+```Your booking is not complete untill this screen is visable.``
+
+```In case you are making GDS booking. E.g. Vistara, Air India and jet airways. May not be complete. You may get error with below screens. Please connect to travel desk on priority.```
+
+```In case you are making LCC booking. E.g. Spice jet, Indigo, Air Asia and Go Air. Your booking will be completed even in the case of below error except in case of itnery not available. Please connect to travel desk for the ticket confirmation.```
+
+---
+---
 
 There is an posibility that you might recieve an error while booking:-
 
 Error | Description
 --- | ---
 Duplicate booking | Your booking may have been proposed, Please contact travel desk @ travel.desk@in.panasonic.com
-Network timeout | If this error occurs try using chrome browser.
+Network timeout | If this error occurs try using chrome browser. prefered with LAN.
 Itinerary not available | Check your flight itinerary, If still not resolved contact travel desk @ travel.desk@in.panasonic.com 
 Limit exceed | If this error occurs contact travel desk @ travel.desk@in.panasonic.com  
 
+### Itinerary not available
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im1.png">
+
+### Network timeout
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im2.png">

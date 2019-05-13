@@ -9,6 +9,8 @@ nav_order: 1
 
 Expenses of travel can be added to the Concur management system, once the request is approved by the manager. To submit the expense report, follow the steps below:-
 
+```Domestic or International travel Expense should have a prior aproved Request attached to the expense, this is mandatory.```
+
 #### 1. Log in to the system.
 
 #### 2. Go to the request section.
@@ -18,6 +20,8 @@ Expenses of travel can be added to the Concur management system, once the reques
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex1.png"> 
 
 #### 4. Add the name of the Expense report.
+
+```In an expense multiple requests can be added. E.g. In case your request have extension also, the request and extension can be aded in one single expense itself.```
 
 #### 5. Add your comments regarding the report
 
@@ -29,7 +33,7 @@ Expenses of travel can be added to the Concur management system, once the reques
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex3.png"> 
 ```
-In case your city is not available in the list, kingly log in with poisplus@in.panasonic.com.
+In case your city is not available in the list, kindly log in with poisplus@in.panasonic.com.
 ```
 #### 7. Review assigned itineraries and click on next to continue.
 
