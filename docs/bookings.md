@@ -72,3 +72,8 @@ Duplicate booking | Your booking may have been proposed, Please contact travel d
 Network timeout | If this error occurs try using chrome browser.
 Itinerary not available | Check your flight itinerary, If still not resolved contact travel desk @ travel.desk@in.panasonic.com 
 Limit exceed | If this error occurs contact travel desk @ travel.desk@in.panasonic.com  
+
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im1.png">
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im2.png">
