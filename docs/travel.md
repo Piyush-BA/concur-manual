@@ -32,6 +32,16 @@ Expenses of travel can be added to the Concur management system, once the reques
 #### 6. Add new itinerary stop and click on next to continue.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex3.png"> 
+
+```In case your departure and arival are not entered correctly. E.g. Depatrure: Delhi to Mumbai, Return: Mumbai to Delhi. You will get below error while submiting:```
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im6.png"> 
+
+
+```In case your selected city is not coming, Please log ticket with poisplus@in.panasonic.com with correct ZIP code and city name.```
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im5.png"> 
+
 ```
 In case your city is not available in the list, kindly log in with poisplus@in.panasonic.com.
 ```
