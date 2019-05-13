@@ -21,10 +21,13 @@ Steps to Sign In:
 `2.` The system will log in via SSO(Windows login). 
 ***  
 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\dash.png">
+
 ***In case you are not in Panasonic network, Log in to concur.in.panasonic.com will open below screen.***
 
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\Login.png">
+
 Please Enter your Domain username and password. 
 
 ```E.g. in\mohit.parkash```
