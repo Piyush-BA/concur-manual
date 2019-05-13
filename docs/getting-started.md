@@ -26,11 +26,12 @@ Steps to Sign In:
 ***In case you are not in Panasonic network, Log in to concur.in.panasonic.com will open below screen.***
 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\Login.png">
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\login.png">
 
 Please Enter your Domain username and password. 
 
 ```E.g. in\mohit.parkash```
+
 ```Password: Windows password``
 
 
