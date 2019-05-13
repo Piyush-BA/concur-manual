@@ -39,9 +39,9 @@ Always select booking type as "Booked by other sources" in International travel.
 
 #### 9. If the request is an extension of any other request, fill the name of that request. 
 
-#### 10. Now in the segments section, click on Air ticket, cab or Hotel reservation icon to add the details.
-
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\ext.png"> 
+
+#### 10. Now in the segments section, click on Air ticket, cab or Hotel reservation icon to add the details.
 
 ---
 
