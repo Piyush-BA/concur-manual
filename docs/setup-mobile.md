@@ -52,7 +52,7 @@ Once your Mobile PIN is created, log into the app using your UID@in.panasonic us
 #### 8. Use your system ID i.e IN\user.name
 `user id-eg in\mohit.parkash`
 
-#### 9. Password: your SSO login password
+#### 9. Password: your windows login password
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob6.jpg" width="288"> 
 

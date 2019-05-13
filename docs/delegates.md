@@ -6,7 +6,7 @@ nav_order: 5
 # How to Delegate
 
 
-Delegation is the assignment of any responsibility or authority to another person.  In these cases, we need to give access to our Concur account to someone else. In the Concur system, this process is called request delegation. To understand how to delegate your account or to access a delegated account, Follow the steps below.
+Delegation is the assignment of any responsibility or authority to another person.  In these cases, we need to give access to our Concur account to someone else. In the Concur system, this process is called request and expense delegation. To understand how to delegate your account or to access a delegated account, Follow the steps below.
 
 ## 1 Request Delegates
 ### Role- All users

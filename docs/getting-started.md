@@ -30,9 +30,9 @@ Steps to Sign In:
 
 Please Enter your Domain username and password. 
 
-```E.g. in\mohit.parkash```
+```E.g. Username: in\mohit.parkash```
 
-```Password: Windows password``
+```Password: Windows password```
 
 
 ### Note:
