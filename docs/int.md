@@ -6,6 +6,8 @@ nav_order: 2
 ---
 # International Travel
 
+**All red fields are mandatory**
+
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22"> Once the request page is open all the red highlighted field needs to be filled. 
 
 #### 1. Select your Travel Purpose from the drop-down list as Domestic Travel. 
@@ -15,12 +17,12 @@ International Travel | Work travel outside India.
 
 #### 2. Enter the name of the request. For Eg. Sales Training 
 
-#### 3. Select the booking type as Booked by other sources.
+#### 3. Select the booking type as "Booked by other sources".
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22">
 
 ```
-Always select booking type as Booked by other sources in International travel.
+Always select booking type as "Booked by other sources" in International travel.
 ```
 
 #### 4. Leave the Personal/Family Travel as No. Concur system currently does not support this feature.
@@ -35,13 +37,15 @@ Always select booking type as Booked by other sources in International travel.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req13.png"> 
 
-#### 9.  Now in the segments section, click on Air ticket, cab or Hotel reservation icon to add the details.
+#### 9. If the request is an extension of any other request, fill the name of that request. 
 
-#### 10. If the request is an extension of any other request, fill the name of that request.
+#### 10. Now in the segments section, click on Air ticket, cab or Hotel reservation icon to add the details.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\ext.png"> 
 
 ---
+
+### Add segment
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\int.png"> 
 
@@ -58,8 +62,6 @@ Always select booking type as Booked by other sources in International travel.
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\rail.png"> 
 
 #### 10. Add estimated amount, To and From locations and Time of departure.
-
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req3.png"> 
 
 #### 11. Click on the "Save" button.
 
