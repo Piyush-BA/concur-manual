@@ -65,8 +65,8 @@ Or Please log in into the mobile app and follow the steps below:
 
 **The request can be approved via mobile also**
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\mo1.png"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\mo1.jpeg"> 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\mo.png"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\mo.jpeg"> 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\mo2.png"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\mo2.jpeg"> 

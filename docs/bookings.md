@@ -64,6 +64,9 @@ In case you have not selected self booking. This feature will not be available.
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo15.png">
 
 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo17.png">
+
+
 There is an posibility that you might recieve an error while booking:-
 
 Error | Description
