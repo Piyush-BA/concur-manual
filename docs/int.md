@@ -31,6 +31,8 @@ Always select booking type as Booked by other sources in International travel.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req2.png"> 
 
+**Add Cash Advanced if required** 
+
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req13.png"> 
 
 #### 9.  Now in the segments section, click on Air ticket, cab or Hotel reservation icon to add the details.
