@@ -39,7 +39,7 @@ A list of Requests waiting for your approval will be listed if any.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req12.png"> 
 
-#### 5. Use the "Send Back Request" if you require further information from the traveller or want to decline the travel request.
+#### 5. Use the "Send Back Request" if you require further information from the traveler or want to decline the travel request.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\re.png"> 
 

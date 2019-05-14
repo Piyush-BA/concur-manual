@@ -32,15 +32,15 @@ nav_order: 4
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\cab\cab3.png">  
 
-#### 8. Add Estimate amount, From and to location, exected date & time.
+#### 8. Add Estimate amount, From and to location, expected date & time.
 
-#### 9. Add comment of the segment if any.
+#### 9. Add a comment of the segment if any.
 
 #### 10. Enter the return time.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\cab\cab4.png">
 
-#### 11. Click on "Submit" button to submit this request.
+#### 11. Click on the "Submit" button to submit this request.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\cab\cab6.png">
 
@@ -56,6 +56,6 @@ nav_order: 4
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\cab\cab5.png">
 
-#### 11. Click on "Submit" button to submit this request.
+#### 11. Click on the "Submit" button to submit this request.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\cab\cab6.png">
