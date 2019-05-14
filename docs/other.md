@@ -39,7 +39,7 @@ Other expenses like Local conveyance can be made once Monthly(for ASM).
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot7.png"> 
 
-```Select Personal is the point is a personal checkoint.```
+```Select Personal if the point is a personal checkoint.```
 
 #### 7. Click on the "Submit Claim" button.
 
