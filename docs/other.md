@@ -25,9 +25,9 @@ Other expenses like Local conveyance can be made once Monthly(for ASM).
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot4.png"> 
 
-```Next screen is for per-diem as its Not required for local claim, so cancel & below screen is applicable for tour only```
+```Next screen is for per-diem as its Not required for local claim, so cancel & below screen is applicable for tour only.```
 
-#### 5. Click on new Expense button to select the expense type.
+#### 5. Click on the "New Expense" button to select the expense type.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot5.png"> 
 
@@ -35,8 +35,12 @@ Other expenses like Local conveyance can be made once Monthly(for ASM).
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot6.png"> 
 
+```To move from the point A to B by clicking "Tab" button.```
+
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot7.png"> 
 
-#### 7. Click on "Submit Claim" button.
+```Select Personal is the point is a personal checkoint.```
+
+#### 7. Click on the "Submit Claim" button.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot8.png"> 
