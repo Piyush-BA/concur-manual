@@ -51,7 +51,7 @@ In case your city is not available in the list, kindly log in with poisplus@in.p
 
 #### 8. Review expenses and adjustments and click on the "Create Expense" to continue.
 
-```Self stay - In case you have decided to choos your accomodation by yourself, this checkbox has to be checked. So that self stay amount can be calculated and added to your expense.```
+```Self stay - In case you have decided to choose your accomodation by yourself, this checkbox has to be checked. So that self stay amount can be calculated and added to your expense.```
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ab1.png"> 
 
