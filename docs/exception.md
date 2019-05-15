@@ -2,7 +2,7 @@
 layout: default
 title: Exceptions
 parent: Expenses 
-nav_order: 3
+nav_order: 5
 ---
 # Exception expenses 
 
