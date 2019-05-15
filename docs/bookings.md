@@ -75,6 +75,11 @@ In case you have not selected self-booking. This feature will not be available.
 ---
 ---
 
+```When you have selected Air fare and Hotel in the request in self booking request. You can still skip the hotel booking from concur by clicking on skip button.
+
+---
+---
+
 There is a posibility that you might receive an error while booking:-
 
 Error | Description

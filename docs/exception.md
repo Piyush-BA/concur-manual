@@ -4,7 +4,7 @@ title: Exceptions
 parent: Expenses 
 nav_order: 3
 ---
-# Exception expences
+# Exception expences 
 
 In Some cases Requests can get extended, to tackle such cases you will need to add multiple requests within a single expense report create expense you need to map both the request.
 
@@ -12,7 +12,8 @@ In Some cases Requests can get extended, to tackle such cases you will need to a
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot1.png"> 
 
-#### 2. Select "Other Expense" from the list of expense policy.
+#### 2. Select "Other Expense/Domestic/International" from the list of expense policy. 
+
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot2.png"> 
 

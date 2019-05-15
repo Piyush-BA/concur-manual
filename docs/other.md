@@ -31,7 +31,7 @@ Other expenses like Local conveyance can be made once Monthly(for ASM).
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot5.png"> 
 
-#### 6. Add to and fro location. 
+#### 6. Add to and fro location for self drive. 
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot6.png"> 
 
