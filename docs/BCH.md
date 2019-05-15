@@ -27,4 +27,8 @@ Expenses made by Branch Commercial Head for branches.
 
 #### 5. Click on the "Cancel" button.
 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bch\bch2.png"> 
+
 #### 6. Add the expense by selecting it and click on "submit" button.
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bch\bch3.png"> 
