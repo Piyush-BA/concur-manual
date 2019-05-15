@@ -16,7 +16,7 @@ From the request click on "book" link to continue.
 
 #### 2. Amount should be inclusive of GST e.g. Room rate + GST.
 
-#### 3. Click on save itemisations. 
+#### 3. Click on the "Save and itemise" button. 
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\e3.png"> 
 
@@ -31,9 +31,9 @@ Select GST rate | Select the type of GST rate. E.g. 9%, 18% or 28% as per the in
 Type of Tax on recipt/invoice | Choose the option if the tax is included of CSGT, SGST or CGST and UGST as per the invoice
 I declare Non availableity of GST detils | In case Hotel GST is not available, please select this checkbox
 
-#### 4. All below highlighted columns are mandatory please fill.
+#### 4. Enter the check in and check out dates.
 
-#### 5. Amount should be inclusive of GST e.g. Room rate + GST.
+#### 5. Add the room rate Amount should be inclusive of GST e.g. Room rate + GST.
 
 #### 6. Click on save itemisations. 
 

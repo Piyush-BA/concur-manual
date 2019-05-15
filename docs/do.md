@@ -51,4 +51,6 @@ nav_order: 10
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22"> For any urgent booking or changes After 6:30 p.m. / Weekends i.e. Saturday & Sunday user who had raised a request through Concur needs to send mail to ETS i.e. corporate24X7@in.thomascook.com and travel.desk@in.panasonic.com - with concur request number. The below-mentioned page snapshot needs to be shared with the ETS team for emergency bookings in case of Full-Service Carrier: Jet Airways, Vistara and Air India.
 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\im9.png">
+
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22">  In case of Cancellation of ticket make sure to attach ticket copy while sending a request to ETS.
