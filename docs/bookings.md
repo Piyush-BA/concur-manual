@@ -58,6 +58,14 @@ In case you have not selected self-booking. This feature will not be available.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo12.png">
 
+---
+---
+
+```When you have selected Air fare and Hotel in the request in self booking request. You can still skip the hotel booking from concur by clicking on skip button.```
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im8.png">
+
+
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo13.png">
 
 #### 12. Send or print the Itinerary.
@@ -68,13 +76,6 @@ In case you have not selected self-booking. This feature will not be available.
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo17.png">
 
 ```Your booking is not complete until this screen is visible.```
----
----
-
-```When you have selected Air fare and Hotel in the request in self booking request. You can still skip the hotel booking from concur by clicking on skip button.```
-
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im8.png">
-
 
 ```In case you are making GDS booking. E.g. Vistara, Air India and jet airways. May not be complete. You may get an error with below screens. Please connect to the travel desk on priority.```
 
