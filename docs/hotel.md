@@ -8,8 +8,6 @@ nav_order: 4
 
 From the request click on "book" link to continue.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\e1.png"> 
-
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\e2.png"> 
 
 #### 1. All below highlighted columns are mandatory please fill.
@@ -17,6 +15,8 @@ From the request click on "book" link to continue.
 #### 2. Amount should be inclusive of GST e.g. Room rate + GST.
 
 #### 3. Click on the "Save and itemise" button. 
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex6.png"> 
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\e3.png"> 
 

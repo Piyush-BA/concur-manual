@@ -4,7 +4,7 @@ title: Exceptions
 parent: Expenses 
 nav_order: 3
 ---
-# Exception expences 
+# Exception expenses 
 
 In Some cases Requests can get extended, to tackle such cases you will need to add multiple requests within a single expense report create expense you need to map both the request.
 

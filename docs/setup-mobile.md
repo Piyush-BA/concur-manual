@@ -13,6 +13,8 @@ To download the app, access your mobile app store and search for Concur. Once th
 
 #### 2. On the upper right-hand corner of the screen, click Profile, then Profile settings
 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp1.png"> 
+
 #### 3. Under Other Settings, click on "Concur Mobile Registration".
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\mobi\mob1.png"> 
