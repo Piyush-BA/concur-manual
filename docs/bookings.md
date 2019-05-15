@@ -51,6 +51,14 @@ In case you have not selected self-booking. This feature will not be available.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo8.png">
 
+---
+---
+
+```When you have selected Air fare and Hotel in the request in self booking request. You can still skip the hotel booking from concur by clicking on skip button.```
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im8.png">
+
+
 #### 11. Submit trip confirmation by clicking on the "Confirm Booking>>" button.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo10.png">
@@ -66,16 +74,11 @@ In case you have not selected self-booking. This feature will not be available.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo17.png">
 
-```Your booking is not complete until this screen is visible.``
+```Your booking is not complete until this screen is visible.```
 
 ```In case you are making GDS booking. E.g. Vistara, Air India and jet airways. May not be complete. You may get an error with below screens. Please connect to the travel desk on priority.```
 
 ```In case you are making LCC booking. E.g. Spice Jet, Indigo, Air Asia and Go Air. Your booking will be completed even in the case of below error except in case of itnery not available. Please connect to travel desk for the ticket confirmation.```
-
----
----
-
-```When you have selected Air fare and Hotel in the request in self booking request. You can still skip the hotel booking from concur by clicking on skip button.
 
 ---
 ---
