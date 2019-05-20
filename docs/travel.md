@@ -82,6 +82,16 @@ Amount should be inclusive of GST e.g. Room rate + GST.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex7.png"> 
 
+---
+Add Cab expense
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\cab.png"> 
+
+Add Cab expense
+***Add Local Conveyance - recipt is not required in Local Conveyance but is mandatory in cab expense***
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\local.png"> 
+
 #### 12. Browse the receipt from the computer and click on the "Attach" button.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ex8.png"> 

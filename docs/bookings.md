@@ -33,6 +33,10 @@ In case you have not selected self-booking. This feature will not be available.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo3.png">
 
+```If we select a flight higher than approved, we have to provide an explaination for the same```
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\exp.png">
+
 #### 7.  Check the details and Click on the "Reserve" button.
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo4.png">

@@ -17,7 +17,7 @@ nav_order: 10
 ### How do I log in to Concur Travel & Expense?
 + Concur can be accessed through the SSO- Single sign On(Windows login), from anywhere with a stable internet connection.
 
-[Sign In page](https://www.concur.in.panasonic.com){: .btn .btn-blue }
+<a href="http://concur.in.panasonic.com" class="btn btn-blue" target="_blank">Sign In page</a>
 
 ### Who should use Concur?
 +  All employees of Panasonic India who need to apply for travel reimbursements need to use this system.

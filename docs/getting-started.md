@@ -16,7 +16,7 @@ Steps to Sign In:
 
 `1.` Open the Sign In page of Concur.
 
-<a href="http://concur.in.panasonic.com" class="btn btn-blue" b>Sign In page</a>
+<a href="http://concur.in.panasonic.com" class="btn btn-blue" target="_blank">Sign In page</a>
 
 `2.` The system will log in via SSO(Windows login).  
 

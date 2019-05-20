@@ -149,7 +149,7 @@ Select "I do not have a passport" check box if you do not have a passport.
 
 #### 2. Add credit details and click on "save".
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\crdt.png"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\crdt1.png"> 
 
 
 ### Frequent traveller

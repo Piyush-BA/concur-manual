@@ -31,7 +31,7 @@ Always select booking type as "Booked by other sources" in International travel.
 
 #### 7. Add the business purpose, to describe the purpose of your request and click on the "Save" button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req2.png"> 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\inter.png"> 
 
 **Add Cash Advanced if required** 
 
