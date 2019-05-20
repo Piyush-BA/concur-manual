@@ -16,10 +16,9 @@ Steps to Sign In:
 
 `1.` Open the Sign In page of Concur.
 
-[Sign In page](www.concur.in.panasonic.com){: .btn .btn-blue }
+<a href="http://concur.in.panasonic.com" class="btn btn-blue" b>Sign In page</a>
 
-`2.` The system will log in via SSO(Windows login). 
-***  
+`2.` The system will log in via SSO(Windows login).  
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\dash.png">
 

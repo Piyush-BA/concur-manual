@@ -47,6 +47,8 @@ please send approved request number to travel desk for booking.
 
 **All red fields are mandatory.**
 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\dseg.png"> 
+
 ```Air```
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req3.png"> 
@@ -56,8 +58,6 @@ please send approved request number to travel desk for booking.
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\hot.png"> 
 
 #### 10. Add estimated amount, To and From locations and Time of departure.
-
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req3.png"> 
 
 #### 11. Click on the "Save" button.
 

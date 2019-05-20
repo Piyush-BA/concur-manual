@@ -137,3 +137,27 @@ Select "I do not have a passport" check box if you do not have a passport.
 ```
 
 <img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp8b.png"> 
+
+---
+---
+
+### Credit card information
+
+#### 1. 
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\crdt.png"> 
+
+#### 2. Add credit details and click on "save".
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\crdt.png"> 
+
+
+### Frequent traveller
+
+#### 1. Click on add program link.
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\freq.png"> 
+
+#### 2. Add program and click on "save".
+
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\freq1.png"> 
