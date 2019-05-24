@@ -10,7 +10,7 @@ nav_order: 5
 ### Role- Approvers or deligated users
 
 Travel Approver will receive an email notification when there is a requisition waiting for your approval. To review the request, log in to Concur (Concur web link address is available at the bottom of the email received).
-<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> Note: If you are approving Travel on behalf of another Approver, refer to notes under Delegating Approval – Approving Travel as an Approval Delegate.
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> Note: If you are approving Travel on behalf of another Approver, refer to notes under Delegating Approval – Approving Travel as an Approval Delegate.
 
 #### 1. On the Homepage, click on the **Approvals** tab.
 
@@ -57,7 +57,7 @@ for returning the request to the traveller.
 <img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\re.png"> 
 
 ---
-<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> if aprover gets error, Please send an email at poisplus@in.panasonic.com.
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> if aprover gets error, Please send an email at poisplus@in.panasonic.com.
 
 ----
 

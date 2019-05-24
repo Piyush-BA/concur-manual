@@ -23,7 +23,7 @@ To understand about the Entertainment request policy of Panasonic india <a href=
 
 <img id="myImg" src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent1.png">
 
-<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> You might face an error : You are not eligible to request the entertainment claim. Please check the above <a href="{{ site.url }}{{ site.baseurl }}\assets\images\ent.pdf" target="_blank">policy</a>.
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> You might face an error : You are not eligible to request the entertainment claim. Please check the above <a href="{{ site.url }}{{ site.baseurl }}\assets\images\ent.pdf" target="_blank">policy</a>.
 
 <img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent2.png">
 

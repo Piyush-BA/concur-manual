@@ -8,7 +8,8 @@ nav_order: 2
 
 **All red fields are mandatory**
 
-<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22"> Once the request page is open all the red highlighted field needs to be filled. 
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22"> Mail Approval would not be entertained in concur booking.
+ Once the request page is open all the red highlighted field needs to be filled. 
 
 #### 1. Select your Travel Purpose from the drop-down list as Domestic Travel. 
 
@@ -19,7 +20,8 @@ International Travel | Work travel outside India.
 
 #### 3. Select the booking type as "Booked by other sources".
 
-<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22">
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22"> Mail Approval would not be entertained in concur booking.
+
 
 ```
 Always select booking type as "Booked by other sources" in International travel.

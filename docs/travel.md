@@ -76,7 +76,7 @@ Amount should be inclusive of GST e.g. Room rate + GST.
 
 #### 10. Add expense details in red colour to save the process.
 
-<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> `Icon means error, all there errors need to be resolved.`
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> `Icon means error, all there errors need to be resolved.`
 
 #### 11. Click on the "Attach Receipt" button to add the receipts if any.
 

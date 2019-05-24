@@ -8,7 +8,7 @@ nav_order: 3
 <img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\image5.jpeg"> 
 
 
-<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> **Traveller MUST review and confirm their profile information!**
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> **Traveller MUST review and confirm their profile information!**
 
 Traveller Profile Information must be kept up-to-date with details in accordance with your current travel document (Government approved ID e.g. passport, Aadhar that you will be using for travel).
 The traveller may be turned down at the gate if the name on the travel document used (Government approved ID e.g. passport, Aadhar or any other travel identification) does not match the name on the ticket issued by the Travel agent.
@@ -18,7 +18,7 @@ It is the **Traveller's responsibility** to ensure that Profile Information is u
 
 If you are arranging travel on **behalf of a traveller**, please ensure you have confirmed with the traveller that their profile is up-to-date.
 
-<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> *Minimum Personal Information Required:*
+<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> *Minimum Personal Information Required:*
 + Name
 + Work Address
 + Contact Information
