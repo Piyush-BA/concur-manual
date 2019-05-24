@@ -20,12 +20,12 @@ Steps to Sign In:
 
 `2.` The system will log in via SSO(Windows login).  
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\dash.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\dash.png">
 
 ***In case you are not in Panasonic network, Log in to concur.in.panasonic.com will open below screen.***
 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\login.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\login.png">
 
 Please Enter your Domain username and password. 
 
@@ -53,7 +53,7 @@ In the dashboard, we have a summary of the Concur system. Depending on user acce
 7. Start a report
 8. Upload receipt
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\dsh1.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\getting-started\dsh1.png">
 
 ```
 If you are logging in for the first time, begin by reviewing and completing your Traveller Profile.
@@ -68,4 +68,4 @@ My Tasks | This section lists Required Approvals, Available Expenses, and Open R
 Request button | Create new requests for domestic, international travel and entertainment or car requests
 Expense button | Create, submit and update Expense reports
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\flow.png">   
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\flow.png">   

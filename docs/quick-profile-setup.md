@@ -5,10 +5,10 @@ nav_order: 3
 ---
 # Quick Setup to Traveler's Profile
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\image5.jpeg"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\image5.jpeg"> 
 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> **Traveller MUST review and confirm their profile information!**
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> **Traveller MUST review and confirm their profile information!**
 
 Traveller Profile Information must be kept up-to-date with details in accordance with your current travel document (Government approved ID e.g. passport, Aadhar that you will be using for travel).
 The traveller may be turned down at the gate if the name on the travel document used (Government approved ID e.g. passport, Aadhar or any other travel identification) does not match the name on the ticket issued by the Travel agent.
@@ -18,7 +18,7 @@ It is the **Traveller's responsibility** to ensure that Profile Information is u
 
 If you are arranging travel on **behalf of a traveller**, please ensure you have confirmed with the traveller that their profile is up-to-date.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> *Minimum Personal Information Required:*
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> *Minimum Personal Information Required:*
 + Name
 + Work Address
 + Contact Information
@@ -34,11 +34,11 @@ If you are arranging travel on **behalf of a traveller**, please ensure you have
 
 #### 2. Click on Profile and select Profile Settings. 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp1.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp1.png"> 
 
 #### 3. Click on "Personal Information".  
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp2.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp2.png"> 
 
 #### 4. Update Name details.
 
@@ -51,7 +51,7 @@ information first and click on SAVE at the end.
 
 `2.` Click "Save" to confirm details.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp3.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp3.png"> 
 
 
 ```
@@ -67,7 +67,7 @@ Indicate by selecting the "No Middle Name" tick-box, if required.
 
 `3.` Click on the "Save" button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp4.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp4.png"> 
 
 
 Field | Description
@@ -86,7 +86,7 @@ Address the same as the assigned location | Select this check box if you work at
 
 `4.` Click on the "Save" button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp5.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp5.png"> 
 
 Field | Description
 --- | --- 
@@ -114,7 +114,7 @@ Steps to submit Emergency Contact:
 
 `4.` Click on save.  
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp7.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp7.png"> 
 
 #### 8. Update TSA secure flight.
 
@@ -122,7 +122,7 @@ Steps to submit Emergency Contact:
 
 `2.` Select your birthdate.  
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp8a.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp8a.png"> 
 
 ```
 Leave the "DHS Redress No." and "TSA Pre DHS Redress No." empty.
@@ -136,7 +136,7 @@ Passport and Visas are only mandatory if the travel is international.
 Select "I do not have a passport" check box if you do not have a passport.
 ```
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp8b.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\qsp8b.png"> 
 
 ---
 ---
@@ -145,19 +145,19 @@ Select "I do not have a passport" check box if you do not have a passport.
 
 #### 1. 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\crdt.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\crdt.png"> 
 
 #### 2. Add credit details and click on "save".
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\crdt1.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\crdt1.png"> 
 
 
 ### Frequent traveller
 
 #### 1. Click on add program link.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\freq.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\freq.png"> 
 
 #### 2. Add program and click on "save".
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\freq1.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\qsp\freq1.png"> 

@@ -6,13 +6,13 @@ nav_order: 10
 # FAQs
 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For Travel related query please connect with `travel.desk@in.panasonic.com`.
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For Travel related query please connect with `travel.desk@in.panasonic.com`.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For Policy related query please connect with `hr.desk@in.panasonic.com`.
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For Policy related query please connect with `hr.desk@in.panasonic.com`.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For Finance related query please connect with `ashish.maheshwari@in.panasonic.com`.
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For Finance related query please connect with `ashish.maheshwari@in.panasonic.com`.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For login/Access related query please connect with `poisplus@in.panasonic.com`.
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> For login/Access related query please connect with `poisplus@in.panasonic.com`.
 
 ### How do I log in to Concur Travel & Expense?
 + Concur can be accessed through the SSO- Single sign On(Windows login), from anywhere with a stable internet connection.

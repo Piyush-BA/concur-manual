@@ -11,7 +11,7 @@ To understand about the Entertainment request policy of Panasonic india <a href=
 
 #### 1. Select your Travel Purpose from the drop-down list as "Entertainment Request". 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent1a.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent1a.png">
 
 #### 2. Enter the name of the request.
 
@@ -23,17 +23,17 @@ To understand about the Entertainment request policy of Panasonic india <a href=
 
 <img id="myImg" src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent1.png">
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> You might face an error : You are not eligible to request the entertainment claim. Please check the above <a href="{{ site.url }}{{ site.baseurl }}\assets\images\ent.pdf" target="_blank">policy</a>.
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bulb.png"  height="22" width="22"> You might face an error : You are not eligible to request the entertainment claim. Please check the above <a href="{{ site.url }}{{ site.baseurl }}\assets\images\ent.pdf" target="_blank">policy</a>.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent2.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent2.png">
 
 #### 6. Go to the "segments" tab.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent2a.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent2a.png">
 
 #### 7. Click on the Entertainment image to add segment.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent3b.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent3b.png">
 
 #### 8. Add estimate amount, City exected date and reason of the segment.
 
@@ -41,8 +41,8 @@ To understand about the Entertainment request policy of Panasonic india <a href=
 
 #### 10. Add "Person Designation", as the designation of the person for who you need this segment.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent3.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent3.png">
 
 #### 11. Click on "Submit" button to submit this request.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent4.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\ent\ent4.png">

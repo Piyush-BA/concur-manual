@@ -8,7 +8,7 @@ nav_order: 2
 
 **All red fields are mandatory**
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22"> Once the request page is open all the red highlighted field needs to be filled. 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22"> Once the request page is open all the red highlighted field needs to be filled. 
 
 #### 1. Select your Travel Purpose from the drop-down list as Domestic Travel. 
 
@@ -19,7 +19,7 @@ International Travel | Work travel outside India.
 
 #### 3. Select the booking type as "Booked by other sources".
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\warn.png"  height="22" width="22">
 
 ```
 Always select booking type as "Booked by other sources" in International travel.
@@ -31,15 +31,15 @@ Always select booking type as "Booked by other sources" in International travel.
 
 #### 7. Add the business purpose, to describe the purpose of your request and click on the "Save" button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\inter.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\inter.png"> 
 
 **Add Cash Advanced if required** 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req13.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req13.png"> 
 
 #### 9. If the request is an extension of any other request, fill the name of that request. 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\ext.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\ext.png"> 
 
 #### 10. Now in the segments section, click on Air ticket, cab or Hotel reservation icon to add the details.
 
@@ -47,32 +47,32 @@ Always select booking type as "Booked by other sources" in International travel.
 
 ### Add segment
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\int.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\int.png"> 
 
 ```Air```
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\air.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\air.png"> 
 
 ```Hotel```
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\hot.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\hot.png"> 
 
 ```Rail```
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\rail.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\rail.png"> 
 
 #### 10. Add estimated amount, To and From locations and Time of departure.
 
 #### 11. Click on the "Save" button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req4.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req4.png"> 
 
 #### 12. Add other expenses from the "Expenses" tab
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req5.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req5.png"> 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req6.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req6.png"> 
 
 #### 13. Click on the "Submit Request" button to submit the request.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req7.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req7.png"> 

@@ -14,7 +14,7 @@ You can complete this process by following these steps:-
 
 #### 2. From the dashboard click on "Start a Request" tab to create a new request.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req1.png">  
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\request\req1.png">  
 
 Request type | Description
 --- | --- 
@@ -23,4 +23,4 @@ International Travel | Work travel outside India.
 Entertainment Request | Entertainment or food expenses with client
 Car & Train Request | Work travel inside India with Car and train
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\req.png">  
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\req.png">  

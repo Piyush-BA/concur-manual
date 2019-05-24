@@ -10,21 +10,21 @@ In Some cases Requests can get extended, to tackle such cases you will need to a
 
 #### 1. Click on Create new report.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot1.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot1.png"> 
 
 #### 2. Select "Other Expense/Domestic/International" from the list of expense policy. 
 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot2.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot2.png"> 
 
 #### 3. Enter Report Name and comment.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot3.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\ot3.png"> 
 
 #### 4. Click on Add button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\x1.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\x1.png"> 
 
 #### 5. Choose the required requests that need to be mapped.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\x2.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\expences\x2.png"> 

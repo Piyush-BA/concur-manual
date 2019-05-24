@@ -15,15 +15,15 @@ Delegation is the assignment of any responsibility or authority to another perso
 
 #### 2. Click on Profile and select Profile Settings. 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del1.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del1.png"> 
 
 #### 3. Click on Request Delegates option. 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del2.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del2.png"> 
 
 #### 4. Click on the "Add" button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del3.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del3.png"> 
 
 #### 5. Enter the name of the user you want to delegate access to your account, click on the "Add" button.
 
@@ -31,7 +31,7 @@ Delegation is the assignment of any responsibility or authority to another perso
 
 #### 7. Select the permissions you want to give.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del4.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del4.png"> 
 
 ```
 Can Approve checkbox- If you want the user to accept requests on your behalf, check this item.
@@ -52,4 +52,4 @@ time. Check this item.
 
 #### 3. Now you can access the account of the user.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del5.png"> 
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\deligate\del5.png"> 

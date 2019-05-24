@@ -19,65 +19,65 @@ In case you have not selected self-booking. This feature will not be available.
 
 #### 3. Select a request that is approved.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo1.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo1.png">
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo16.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo16.png">
 
 #### 4. Click on the "Book with concur travel" button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo2.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo2.png">
 
 #### 5. Look for the best available offer.
 
 #### 6. Click on the radio button and click on the "Select" button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo3.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo3.png">
 
 ```If we select a flight higher than approved, we have to provide an explaination for the same```
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\exp.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\exp.png">
 
 #### 7.  Check the details and Click on the "Reserve" button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo4.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo4.png">
 
 #### 8. Review the price summary and click on the "Reserve flight and continue" button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo5.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo5.png">
 
 #### 9. Initialize the process by clicking on the "Next" button after reviewing all the details.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo6.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo6.png">
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo7.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo7.png">
 
 #### 10. Review Trip information and click on next.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo8.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo8.png">
 
 
 #### 11. Submit trip confirmation by clicking on the "Confirm Booking>>" button.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo10.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo10.png">
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo12.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo12.png">
 
 ---
 ---
 
 ```When you have selected Air fare and Hotel in the request in self booking request. You can still skip the hotel booking from concur by clicking on skip button.```
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im8.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im8.png">
 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo13.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo13.png">
 
 #### 12. Send or print the Itinerary.
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo15.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo15.png">
 
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo17.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\bookings\bo17.png">
 
 ```Your booking is not complete until this screen is visible.```
 
@@ -99,8 +99,8 @@ Limit exceeds | If this error occurs contact travel desk @ travel.desk@in.panaso
 
 ### Itinerary not available
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im1.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im1.png">
 
 ### Network timeout
 
-<img src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im2.png">
+<img class="zoom" src="{{ site.url }}{{ site.baseurl }}\assets\images\error\im2.png">
